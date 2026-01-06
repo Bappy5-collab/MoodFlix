@@ -86,7 +86,7 @@ export default function ConsentModal({ onAccept, onDecline }: ConsentModalProps)
         {/* Powered by */}
         <div className="powered-by-modal">
           <span>Powered by</span>
-          <span className="developer-name">Chandon</span>
+          <span className="developer-name">Chandon kumar</span>
         </div>
       </div>
 
